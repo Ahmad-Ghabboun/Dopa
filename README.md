@@ -75,7 +75,7 @@ Full benchmark details → [benchmark.md](./benchmark.md)
 
 ## Repo Structure
 ```
-adhd-focus-agent/
+dopa/
 ├── README.md                        ← You are here
 ├── benchmark.md                     ← Full test cases, scores, failure analysis
 ├── reflection-future-improvements.md ← What worked, what didn't, future roadmap

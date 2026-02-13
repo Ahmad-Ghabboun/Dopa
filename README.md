@@ -1,5 +1,5 @@
 # Dopa
-### An agentic AI workflow to help ADHD users prioritize tasks, build structured focus sessions, and reduce overwhelm.
+### An agentic AI workflow name Dopa that helps ADHD users prioritize tasks, build structured focus sessions, and reduce overwhelm.
 
 ---
 
